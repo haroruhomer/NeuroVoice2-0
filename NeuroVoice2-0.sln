@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trainer", "NeuroVoice2-0\Trainer.csproj", "{F88CCD8E-0171-44E0-B6B5-8556AA29AE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reconocimiento", "Reconocimiento\Reconocimiento.csproj", "{2B1DA271-BB2A-46A3-8923-1D83908000C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuro", "Neuro.Red\Neuro.csproj", "{594FC7D7-FD97-4B46-8F25-6167481AB587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88CCD8E-0171-44E0-B6B5-8556AA29AE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88CCD8E-0171-44E0-B6B5-8556AA29AE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88CCD8E-0171-44E0-B6B5-8556AA29AE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88CCD8E-0171-44E0-B6B5-8556AA29AE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1DA271-BB2A-46A3-8923-1D83908000C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1DA271-BB2A-46A3-8923-1D83908000C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1DA271-BB2A-46A3-8923-1D83908000C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1DA271-BB2A-46A3-8923-1D83908000C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594FC7D7-FD97-4B46-8F25-6167481AB587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594FC7D7-FD97-4B46-8F25-6167481AB587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594FC7D7-FD97-4B46-8F25-6167481AB587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594FC7D7-FD97-4B46-8F25-6167481AB587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

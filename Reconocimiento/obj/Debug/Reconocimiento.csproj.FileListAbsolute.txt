@@ -1,0 +1,9 @@
+D:\Github\NeuroVoice2-0\Reconocimiento\bin\Debug\Reconocimiento.exe.config
+D:\Github\NeuroVoice2-0\Reconocimiento\bin\Debug\Reconocimiento.exe
+D:\Github\NeuroVoice2-0\Reconocimiento\bin\Debug\Reconocimiento.pdb
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Debug\Reconocimiento.Properties.Resources.resources
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Debug\Reconocimiento.csproj.GenerateResource.Cache
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Debug\Reconocimiento.exe
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Debug\Reconocimiento.pdb
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Debug\Reconocimiento.F_Reconocer.resources
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Debug\Reconocimiento.csprojResolveAssemblyReference.cache

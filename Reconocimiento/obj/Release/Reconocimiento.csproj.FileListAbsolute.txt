@@ -1,0 +1,8 @@
+D:\Github\NeuroVoice2-0\Reconocimiento\bin\Release\Reconocimiento.exe.config
+D:\Github\NeuroVoice2-0\Reconocimiento\bin\Release\Reconocimiento.exe
+D:\Github\NeuroVoice2-0\Reconocimiento\bin\Release\Reconocimiento.pdb
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Release\Reconocimiento.F_Reconocer.resources
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Release\Reconocimiento.Properties.Resources.resources
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Release\Reconocimiento.csproj.GenerateResource.Cache
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Release\Reconocimiento.exe
+D:\Github\NeuroVoice2-0\Reconocimiento\obj\Release\Reconocimiento.pdb

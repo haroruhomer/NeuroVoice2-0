@@ -1,0 +1,11 @@
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\bin\Debug\NeuroVoice2-0.exe.config
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\bin\Debug\NeuroVoice2-0.exe
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\bin\Debug\NeuroVoice2-0.pdb
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\obj\Debug\NeuroVoice2-0.csprojResolveAssemblyReference.cache
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\obj\Debug\NeuroVoice2_0.Properties.Resources.resources
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\obj\Debug\NeuroVoice2-0.csproj.GenerateResource.Cache
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\obj\Debug\NeuroVoice2-0.exe
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\obj\Debug\NeuroVoice2-0.pdb
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\obj\Debug\NeuroVoice2_0.F_Entrenar.resources
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\bin\Debug\Reconocimiento.exe
+D:\Github\NeuroVoice2-0\NeuroVoice2-0\bin\Debug\Reconocimiento.pdb

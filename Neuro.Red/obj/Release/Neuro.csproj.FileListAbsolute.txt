@@ -1,0 +1,5 @@
+D:\Github\NeuroVoice2-0\Neuro.Red\bin\Release\Neuro.Red.dll
+D:\Github\NeuroVoice2-0\Neuro.Red\bin\Release\Neuro.Red.pdb
+D:\Github\NeuroVoice2-0\Neuro.Red\obj\Release\Neuro.csprojResolveAssemblyReference.cache
+D:\Github\NeuroVoice2-0\Neuro.Red\obj\Release\Neuro.Red.dll
+D:\Github\NeuroVoice2-0\Neuro.Red\obj\Release\Neuro.Red.pdb

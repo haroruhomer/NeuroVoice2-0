@@ -1,0 +1,4 @@
+D:\Github\NeuroVoice2-0\Neuro.Red\bin\Debug\Neuro.Red.dll
+D:\Github\NeuroVoice2-0\Neuro.Red\bin\Debug\Neuro.Red.pdb
+D:\Github\NeuroVoice2-0\Neuro.Red\obj\Debug\Neuro.Red.dll
+D:\Github\NeuroVoice2-0\Neuro.Red\obj\Debug\Neuro.Red.pdb
